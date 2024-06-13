@@ -27,18 +27,12 @@ I'm passionate about programming and have had the opportunity to work with a var
 
 #
 
-<div style="display:flex; justify-content:center;" >
-
-![image](./Images/javascript_i_love_it.gif)
-
-</div>
+<p align="center">
+  <img src="./Images/javascript_i_love_it.gif" width="fit" height="fill" />
+</p>
 
 ### find me on
 
-
-[![website](./Images/leetcode-svgrepo-com.svg)](https://leetcode.com/u/user0063QM/)
-[![website](./Images/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/deviu)
-&nbsp;&nbsp;
-
-
+<a href="https://leetcode.com/u/user0063QM/"><img src="./Images/leetcode-svgrepo-com.svg" width="30px" height="30px" /></a>
+<a href="https://www.linkedin.com/in/deviu"><img src="./Images/linkedin-svgrepo-com.svg" width="30px" height="30px" /></a>
 
